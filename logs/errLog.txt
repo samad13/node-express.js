@@ -1,0 +1,3 @@
+20231012	18:29:49	395f0286-9203-447a-8f26-9305f479c963	Error:Not Allowed by CORS
+20231016	13:09:02	f877a54d-2c44-4d1b-80e2-a08deb7fbe66	TypeError:data.setEmployees is not a function
+20231016	13:11:35	9363427d-b988-4efa-8733-8fb37c24613a	SyntaxError:Unexpected string in JSON at position 15
